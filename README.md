@@ -1,5 +1,6 @@
 # Student-Performance-Analysis
 📌 Project Overview
+
 This project focuses on analyzing student academic performance data using Exploratory Data Analysis (EDA) and predicting writing scores using Linear Regression.
 
 The dataset contains student information such as gender, parental education, lunch type, test preparation course, and subject scores.
@@ -9,11 +10,14 @@ EDA techniques were applied to understand patterns and relationships between dif
 A Linear Regression model was used to predict writing scores based on reading scores.
 
 📊 Dataset Details
+
 Dataset Name: Students Performance Dataset
 Number of Records: 1000
 Number of Features: 8
 Data Type: Structured Tabular Data
+
 Features:
+
 gender
 race/ethnicity
 parental level of education
@@ -22,6 +26,7 @@ test preparation course
 math score
 reading score
 writing score
+
 🔍 Exploratory Data Analysis (EDA)
 Visualizations created:
 
