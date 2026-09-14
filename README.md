@@ -66,12 +66,17 @@ Scikit-learn
 📂 Project Files
 
 code.py → Python Code
+
 StudentsPerformance.csv → Dataset
+
 Project_Report.pdf → Project Report
+
 Graph Images → Visualization Outputs
 
 🎓 Author
 
 Samuel Raj
+
 B.Tech Computer Science Engineering
+
 Lovely Professional University
