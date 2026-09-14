@@ -28,6 +28,7 @@ reading score
 writing score
 
 🔍 Exploratory Data Analysis (EDA)
+
 Visualizations created:
 
 Histograms
@@ -39,6 +40,7 @@ Pairplot
 These visualizations helped identify relationships between different subject scores.
 
 🤖 Machine Learning Model
+
 Algorithm Used:
 
 Linear Regression
@@ -51,19 +53,25 @@ Evaluation Metrics:
 
 Mean Squared Error (MSE)
 R² Score
+
 🛠️ Tools Used
+
 Python
 Pandas
 NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
 📂 Project Files
+
 code.py → Python Code
 StudentsPerformance.csv → Dataset
 Project_Report.pdf → Project Report
 Graph Images → Visualization Outputs
+
 🎓 Author
+
 Samuel Raj
 B.Tech Computer Science Engineering
 Lovely Professional University
